@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0802a_t001">你選擇:</string>
+    <string name="m0802a_t002">確認</string>
+    <string name="m0802_t010">00:00:00</string>
+    <string name="m0802a_t011">鬧鐘播放</string>
+    <string name="m0802a_err">別鬧了  時間有錯</string>
+    <string name="n_yy">年</string>
+    <string name="n_mm">月</string>
+    <string name="m_dd">日</string>
+    <string name="d_hh">時</string>
+    <string name="d_mm">分</string>
+</resources>
